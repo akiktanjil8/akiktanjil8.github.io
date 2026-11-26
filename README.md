@@ -1,7 +1,7 @@
 
 # Hi, I'm Md. Akik Tanjil Jihan 🌍
 
-<img src="profile.jpg" alt="Md. Akik Tanjil Jihan" width="150" align="right">
+# <img src="profile.jpg" alt="Md. Akik Tanjil Jihan" width="150" align="right">
 
 **Geospatial data scientist & environmental researcher** — MSc candidate in Environmental Science and Disaster Management at Gopalganj Science and Technology University, Bangladesh.
 
