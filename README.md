@@ -2,6 +2,8 @@
 
 # Hi, I'm Md. Akik Tanjil Jihan 🌍
 
+
+
 **Geospatial data scientist & environmental researcher** — MSc candidate in Environmental Science and Disaster Management at Gopalganj Science and Technology University, Bangladesh.
 
 I work at the intersection of **GIS, remote sensing, climate science and environmental policy**, with a focus on Bangladesh and South Asia. I combine field observations with satellite data and data-driven methods to support evidence-based decisions and environmental resilience.
